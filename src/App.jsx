@@ -14,11 +14,11 @@ function App() {
               <p className='pt-1 text-gray-400 font-medium'>"Front-end developer and avid reader."</p>
 
               <div className='grid grid-cols-1  gap-4 py-4'>
-                  <div className='px-20 py-1 rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>GitHub</a> </div>
-                  <div className='px-20 py-1 rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>Frontend Mentor</a> </div>
-                  <div className='px-20 py-1 rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>LinkedIn</a> </div>
-                  <div className='px-20 py-1 rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>Twitter</a> </div>
-                  <div className='px-20 py-1 rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>Instagram</a> </div>
+                  <div className='px-20 py-1 hover:bg-yellow-600 cursor-pointer rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>GitHub</a> </div>
+                  <div className='px-20 py-1 hover:bg-yellow-600 cursor-pointer rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>Frontend Mentor</a> </div>
+                  <div className='px-20 py-1 hover:bg-yellow-600 cursor-pointer rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>LinkedIn</a> </div>
+                  <div className='px-20 py-1 hover:bg-yellow-600 cursor-pointer rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>Twitter</a> </div>
+                  <div className='px-20 py-1 hover:bg-yellow-600 cursor-pointer rounded bg-gray-600 bg-opacity-40 text-center text-white font-medium'> <a href='#'>Instagram</a> </div>
               </div>
             </div>
         </div>
